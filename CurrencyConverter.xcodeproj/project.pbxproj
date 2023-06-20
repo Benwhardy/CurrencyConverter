@@ -13,6 +13,7 @@
 		143248F72A40E31C00EA57FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 143248F52A40E31C00EA57FF /* Main.storyboard */; };
 		143248F92A40E31C00EA57FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 143248F82A40E31C00EA57FF /* Assets.xcassets */; };
 		143248FC2A40E31C00EA57FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 143248FA2A40E31C00EA57FF /* LaunchScreen.storyboard */; };
+		143249042A42238400EA57FF /* ConversionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143249032A42238400EA57FF /* ConversionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		143248F82A40E31C00EA57FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		143248FB2A40E31C00EA57FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		143248FD2A40E31C00EA57FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		143249032A42238400EA57FF /* ConversionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				143248EF2A40E31C00EA57FF /* AppDelegate.swift */,
 				143248F12A40E31C00EA57FF /* SceneDelegate.swift */,
 				143248F32A40E31C00EA57FF /* ViewController.swift */,
+				143249032A42238400EA57FF /* ConversionViewController.swift */,
 				143248F52A40E31C00EA57FF /* Main.storyboard */,
 				143248F82A40E31C00EA57FF /* Assets.xcassets */,
 				143248FA2A40E31C00EA57FF /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				143248F42A40E31C00EA57FF /* ViewController.swift in Sources */,
 				143248F02A40E31C00EA57FF /* AppDelegate.swift in Sources */,
+				143249042A42238400EA57FF /* ConversionViewController.swift in Sources */,
 				143248F22A40E31C00EA57FF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
